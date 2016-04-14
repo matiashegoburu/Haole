@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="GeneradorDeFlyers.aspx.cs" Inherits="Haole.GeneradorDeFlyers" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="GeneradorDeFlyersHtml.aspx.cs" Inherits="Haole.GeneradorDeFlyersHtml" %>
 
 <!DOCTYPE html>
 
@@ -35,7 +35,7 @@
                 </tr>
                 <tr>
                     <td colspan="2">
-                        <asp:Button ID="btnGenerar" runat="server" Text="Generar el flyer" OnClick="btnGenerar_Click" />
+                        <asp:Button ID="btnGenerar" runat="server" Text="Generar mi flyer" OnClick="btnGenerar_Click" />
                     </td>
                 </tr>
             </table>

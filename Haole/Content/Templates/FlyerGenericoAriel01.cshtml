@@ -1,0 +1,28 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+</head>
+<body style="margin: 0px !important; padding: 0px !important">
+    <table style="width: 800px; margin: 0px 0px 0px 0px; padding: 0px 0px 0x 0px ">
+        <tr>
+            <td style="font-family: VNI-HLThuphap; font-size: 60px; text-align: center;">@Model.EventName</td>
+        </tr>
+        <tr>
+            <td style="font-family: Georgia; font-size: 20px; text-align:center;">@Model.EventDescription</td>
+        </tr>
+        @if (Model.Image != null)
+        {
+            <tr>
+                <td style="border-top: 3px solid black; border-bottom: 3px solid black"><img src="@Model.BaseUrl/Content/Uploaded/image.png" width="800px" style="border: 0px !important" /></td>
+            </tr>
+        }
+    </table>
+</body>
+</html>

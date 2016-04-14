@@ -30,7 +30,7 @@ namespace Haole
                 var filename = "flyer.png";
                 try
                 {
-                    generator.Generate(txtNombre.Text, txtDescripcion.Text, filename, img);
+                    generator.Generate(new Business.Model.FlyerModel { EventName = txtNombre.Text, EventDescription = txtDescripcion.Text, FileName = filename, Image = img });
                     imgFlyer.ImageUrl = filename;
                 }
                 catch (Exception ex) { }

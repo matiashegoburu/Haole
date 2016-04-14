@@ -30,9 +30,26 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="HtmlRenderer, Version=1.5.0.6, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlRenderer.Core.1.5.0.6\lib\net45\HtmlRenderer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="HtmlRenderer.WinForms, Version=1.5.0.6, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlRenderer.WinForms.1.5.0.6\lib\net45\HtmlRenderer.WinForms.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Razor, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Razor.4.0.0-beta7\lib\net45\Microsoft.AspNet.Razor.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="RazorEngine, Version=4.3.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\RazorEngine.4.3.1-beta1\lib\net45\RazorEngine.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -42,7 +59,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FlyerGeneratorManager.cs" />
+    <Compile Include="HtmlFlyerGeneratorManager.cs" />
+    <Compile Include="IFlyerGenerator.cs" />
+    <Compile Include="Model\EventModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

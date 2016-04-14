@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Haole.Business.Model;
+using System;
 using System.Collections.Generic;
 using System.Drawing;
 using System.Drawing.Imaging;
@@ -10,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Haole.Business
 {
-    public class FlyerGeneratorManager : IDisposable
+    public class FlyerGeneratorManager : IFlyerGenerator
     {
         private const int WIDTH = 800;
 
@@ -52,19 +53,21 @@ namespace Haole.Business
             _stringFormat.Dispose();
         }
 
-        public void Generate(string eventName, string eventDescription, string filename, Image img)
+        public void Generate(FlyerModel model)
         {
             RectangleF eventNameRect = RectangleF.Empty;
             RectangleF eventDescriptionRect = RectangleF.Empty;
             RectangleF imgRect = RectangleF.Empty;
             RectangleF footerRect = RectangleF.Empty;
 
-            using (var resizedImage = ScaleImage(img, WIDTH))
+            using (var resizedImage = ScaleImage(model.Image, WIDTH))
             {
+                #region Calculate placeholders for each section
+                // calculate the height and position of each segment of the flyer: name, description, image, and footer.
                 using (var graphic = Graphics.FromImage(new Bitmap(1, 1)))
                 {
-                    eventNameRect = new RectangleF(0, 10, WIDTH, graphic.MeasureString(eventName, _fontEventName).Height);
-                    eventDescriptionRect = new RectangleF(0, eventNameRect.Height, WIDTH, graphic.MeasureString(eventDescription, _fontEventDescription).Height);
+                    eventNameRect = new RectangleF(0, 10, WIDTH, graphic.MeasureString(model.EventName, _fontEventName).Height);
+                    eventDescriptionRect = new RectangleF(0, eventNameRect.Height, WIDTH, graphic.MeasureString(model.EventDescription, _fontEventDescription).Height);
 
                     if (resizedImage != null)
                     {
@@ -76,20 +79,28 @@ namespace Haole.Business
                         footerRect = new RectangleF(0, eventDescriptionRect.Bottom + 100, WIDTH, 110);
                     }
                 }
+                #endregion
 
+                // using the info calculated above, now we know how long the flyer should be
+                // and we know where to position each segment
                 using (var bitmap = new Bitmap(WIDTH, (int)footerRect.Bottom))
                 {
                     using (var graphic = Graphics.FromImage(bitmap))
                     {
+                        graphic.TextRenderingHint = TextRenderingHint.AntiAlias;
+
                         using (var background = Bitmap.FromFile(Path.Combine(_basePath, "Content", "Flyers", "Fondos", "paper_texture3873.jpg")))
                         {
-                            var eventNameSize = graphic.MeasureString(eventName, _fontEventName);
-                            var eventDescriptionSize = graphic.MeasureString(eventDescription, _fontEventDescription);
-
+                            // Paint background
                             graphic.DrawImage(background, 0, 0);
-                            graphic.DrawString(eventName, _fontEventName, _brush, eventNameRect, _stringFormat);
-                            graphic.DrawString(eventDescription, _fontEventDescription, _brush, eventDescriptionRect, _stringFormat);
 
+                            // Paint event name
+                            graphic.DrawString(model.EventName, _fontEventName, _brush, eventNameRect, _stringFormat);
+
+                            // Paint event description right after event name
+                            graphic.DrawString(model.EventDescription, _fontEventDescription, _brush, eventDescriptionRect, _stringFormat);
+
+                            // If there is an image, paint it after description and draw top and bottom lines
                             if (resizedImage != null)
                             {
                                 graphic.DrawImage(resizedImage, imgRect);
@@ -101,14 +112,16 @@ namespace Haole.Business
                                 }
                             }
 
+                            // Paint the footer
                             DrawFooter(bitmap, graphic, footerRect);
 
-                            bitmap.Save(Path.Combine(_basePath, filename), ImageFormat.Png);
+                            bitmap.Save(Path.Combine(_basePath, model.FileName), ImageFormat.Png);
                         }
                     }
                 }
             }
         }
+
         private void DrawFooter(Bitmap bitmap, Graphics graphic, RectangleF footerRect)
         {
             using (var logo = Bitmap.FromFile(Path.Combine(_basePath, "Content", "Logos", "logo 02.png")))
