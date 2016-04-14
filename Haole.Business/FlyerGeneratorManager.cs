@@ -13,13 +13,11 @@ namespace Haole.Business
 {
     public class FlyerGeneratorManager : IFlyerGenerator
     {
-        private const int WIDTH = 800;
-
         private readonly string _basePath;
         private readonly PrivateFontCollection _fontCollection;
         private readonly Brush _brush;
-        private readonly Font _fontEventName;
-        private readonly Font _fontEventDescription;
+        private Font _fontEventName;
+        private Font _fontEventDescription;
         private readonly Font _fontFooter;
         private readonly Font _fontAwesome;
         private readonly StringFormat _stringFormat;
@@ -32,8 +30,6 @@ namespace Haole.Business
             _fontCollection.AddFontFile(Path.Combine(_basePath, "Content", "Fonts", "Vnhltfap.ttf"));
             _fontCollection.AddFontFile(Path.Combine(_basePath, "Content", "Fonts", "fontawesome-webfont.ttf"));
 
-            _fontEventName = new Font(_fontCollection.Families.Last(), 60);
-            _fontEventDescription = new Font("Georgia", 20);
             _fontFooter = new Font("Georgia", 14);
             _fontAwesome = new Font(_fontCollection.Families.First(), 14);
 
@@ -53,6 +49,12 @@ namespace Haole.Business
             _stringFormat.Dispose();
         }
 
+        private void InitializeFonts(FlyerModel model)
+        {
+            _fontEventName = new Font(_fontCollection.Families.Last(), model.EventNameFontSize);
+            _fontEventDescription = new Font("Georgia", model.EventDescriptionFontSize);
+        }
+
         public void Generate(FlyerModel model)
         {
             RectangleF eventNameRect = RectangleF.Empty;
@@ -60,30 +62,32 @@ namespace Haole.Business
             RectangleF imgRect = RectangleF.Empty;
             RectangleF footerRect = RectangleF.Empty;
 
-            using (var resizedImage = ScaleImage(model.Image, WIDTH))
+            InitializeFonts(model);
+
+            using (var resizedImage = ScaleImage(model.Image, model.FlyerWidth))
             {
                 #region Calculate placeholders for each section
                 // calculate the height and position of each segment of the flyer: name, description, image, and footer.
                 using (var graphic = Graphics.FromImage(new Bitmap(1, 1)))
                 {
-                    eventNameRect = new RectangleF(0, 10, WIDTH, graphic.MeasureString(model.EventName, _fontEventName).Height);
-                    eventDescriptionRect = new RectangleF(0, eventNameRect.Height, WIDTH, graphic.MeasureString(model.EventDescription, _fontEventDescription).Height);
+                    eventNameRect = new RectangleF(0, 10, model.FlyerWidth, graphic.MeasureString(model.EventName, _fontEventName).Height);
+                    eventDescriptionRect = new RectangleF(0, eventNameRect.Height, model.FlyerWidth, graphic.MeasureString(model.EventDescription, _fontEventDescription).Height);
 
                     if (resizedImage != null)
                     {
-                        imgRect = new RectangleF(0, eventDescriptionRect.Bottom + 20, WIDTH, resizedImage.Height);
-                        footerRect = new RectangleF(0, imgRect.Bottom + 13, WIDTH, 110);
+                        imgRect = new RectangleF(0, eventDescriptionRect.Bottom + 20, model.FlyerWidth, resizedImage.Height);
+                        footerRect = new RectangleF(0, imgRect.Bottom + 13, model.FlyerWidth, 110);
                     }
                     else
                     {
-                        footerRect = new RectangleF(0, eventDescriptionRect.Bottom + 100, WIDTH, 110);
+                        footerRect = new RectangleF(0, eventDescriptionRect.Bottom + 100, model.FlyerWidth, 110);
                     }
                 }
                 #endregion
 
                 // using the info calculated above, now we know how long the flyer should be
                 // and we know where to position each segment
-                using (var bitmap = new Bitmap(WIDTH, (int)footerRect.Bottom))
+                using (var bitmap = new Bitmap(model.FlyerWidth, (int)footerRect.Bottom))
                 {
                     using (var graphic = Graphics.FromImage(bitmap))
                     {

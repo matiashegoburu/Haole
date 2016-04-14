@@ -20,21 +20,24 @@
                     <td>
                         <asp:TextBox ID="txtNombre" runat="server" TextMode="MultiLine" Height="100px" Width="400px"></asp:TextBox>
                     </td>
+                    <td>Tamaño de Fuente: <asp:TextBox ID="txtNombreTamanoFuente" runat="server" Text="60" TextMode="Number"></asp:TextBox></td>
                 </tr>
                 <tr>
                     <td class="auto-style1">Descripción:</td>
                     <td>
                         <asp:TextBox ID="txtDescripcion" runat="server" TextMode="MultiLine" Height="100px" Width="400px"></asp:TextBox>
                     </td>
+                    <td>Tamaño de Fuente: <asp:TextBox ID="txtDescriptionTamanoFuente" runat="server" Text="20" TextMode="Number"></asp:TextBox></td>
                 </tr>
                 <tr>
                     <td class="auto-style1">Imagen:</td>
-                    <td>
+                    <td colspan="2">
                         <asp:FileUpload ID="fupImagen" runat="server" />
                     </td>
                 </tr>
-                <tr>
-                    <td colspan="2">
+                <tr>                    
+                    <td colspan="3">
+                        Ancho del flyer: <asp:TextBox ID="txtFlyerAncho" Text="800" runat="server" TextMode="Number"></asp:TextBox><br />
                         <asp:Button ID="btnGenerar" runat="server" Text="Generar el flyer" OnClick="btnGenerar_Click" />
                     </td>
                 </tr>
