@@ -124,7 +124,7 @@ namespace Haole.Business
 
         private void DrawFooter(Bitmap bitmap, Graphics graphic, RectangleF footerRect)
         {
-            using (var logo = Bitmap.FromFile(Path.Combine(_basePath, "Content", "Logos", "logo 02.png")))
+            using (var logo = Bitmap.FromFile(Path.Combine(_basePath, "Content", "Logos", "logo 05.png")))
             {
                 graphic.DrawImage(logo, 10, footerRect.Top, 100, 100);
             }
