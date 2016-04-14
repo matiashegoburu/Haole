@@ -1,13 +1,9 @@
 ﻿using Haole.Business.Model;
-using System;
-using System.Collections.Generic;
 using System.Drawing;
 using System.Drawing.Imaging;
 using System.Drawing.Text;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Haole.Business
 {
@@ -71,7 +67,7 @@ namespace Haole.Business
                 using (var graphic = Graphics.FromImage(new Bitmap(1, 1)))
                 {
                     eventNameRect = new RectangleF(0, 10, model.FlyerWidth, graphic.MeasureString(model.EventName, _fontEventName).Height);
-                    eventDescriptionRect = new RectangleF(0, eventNameRect.Height, model.FlyerWidth, graphic.MeasureString(model.EventDescription, _fontEventDescription).Height);
+                    eventDescriptionRect = new RectangleF(0, eventNameRect.Bottom + model.EventDescriptionMarginTop, model.FlyerWidth, graphic.MeasureString(model.EventDescription, _fontEventDescription).Height);
 
                     if (resizedImage != null)
                     {

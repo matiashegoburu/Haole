@@ -37,6 +37,7 @@ namespace Haole
                         EventNameFontSize = int.Parse(txtNombreTamanoFuente.Text),
                         EventDescription = txtDescripcion.Text,
                         EventDescriptionFontSize = int.Parse(txtDescriptionTamanoFuente.Text),
+                        EventDescriptionMarginTop = int.Parse(txtDescritionMargenSuperior.Text),
                         FileName = filename,
                         Image = img
                     });

@@ -58,6 +58,15 @@ namespace Haole {
         protected global::System.Web.UI.WebControls.TextBox txtDescriptionTamanoFuente;
         
         /// <summary>
+        /// txtDescritionMargenSuperior control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtDescritionMargenSuperior;
+        
+        /// <summary>
         /// fupImagen control.
         /// </summary>
         /// <remarks>

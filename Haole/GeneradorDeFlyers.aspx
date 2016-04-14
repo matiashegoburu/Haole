@@ -27,7 +27,10 @@
                     <td>
                         <asp:TextBox ID="txtDescripcion" runat="server" TextMode="MultiLine" Height="100px" Width="400px"></asp:TextBox>
                     </td>
-                    <td>Tamaño de Fuente: <asp:TextBox ID="txtDescriptionTamanoFuente" runat="server" Text="20" TextMode="Number"></asp:TextBox></td>
+                    <td>
+                        <p>Tamaño de Fuente: <asp:TextBox ID="txtDescriptionTamanoFuente" runat="server" Text="20" TextMode="Number"></asp:TextBox></p>
+                        <p>Margen Superior: <asp:TextBox ID="txtDescritionMargenSuperior" runat="server" Text="0" TextMode="Number"></asp:TextBox></p>
+                    </td>
                 </tr>
                 <tr>
                     <td class="auto-style1">Imagen:</td>

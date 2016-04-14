@@ -15,6 +15,7 @@ namespace Haole.Business.Model
         public int EventNameFontSize { get; set; }
         public string EventDescription { get; set; }
         public int EventDescriptionFontSize { get; set; }
+        public int EventDescriptionMarginTop { get; set; }
         public string FileName { get; set; }
         public string BackgroundImageFilename { get; set; }
         public Image Image { get; set; }
