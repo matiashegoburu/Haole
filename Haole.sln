@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haole", "Haole\Haole.csproj", "{A42358C5-FB06-4A09-8B94-E46345CF72AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Haole.Business", "Haole.Business\Haole.Business.csproj", "{0D178CE8-2F2C-4CA3-A8B7-E93EC43C0DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A42358C5-FB06-4A09-8B94-E46345CF72AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42358C5-FB06-4A09-8B94-E46345CF72AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42358C5-FB06-4A09-8B94-E46345CF72AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42358C5-FB06-4A09-8B94-E46345CF72AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D178CE8-2F2C-4CA3-A8B7-E93EC43C0DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D178CE8-2F2C-4CA3-A8B7-E93EC43C0DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D178CE8-2F2C-4CA3-A8B7-E93EC43C0DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D178CE8-2F2C-4CA3-A8B7-E93EC43C0DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
