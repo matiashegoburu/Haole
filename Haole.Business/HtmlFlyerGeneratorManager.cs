@@ -9,7 +9,7 @@ using TheArtOfDev.HtmlRenderer.WinForms;
 
 namespace Haole.Business
 {
-    public class HtmlFlyerGeneratorManager : IFlyerGenerator
+    public class HtmlFlyerGeneratorManager : IFlyerTemplate<TemplateGenericoAriel01Model>
     {
         private const int WIDTH = 800;
 
@@ -20,7 +20,7 @@ namespace Haole.Business
             _basePath = basePath;
         }
 
-        public void Generate(FlyerModel model)
+        public void Generate(TemplateGenericoAriel01Model model)
         {
             var templateManager = new ResolvePathTemplateManager(new[] { Path.Combine(_basePath, "Content", "Templates") });
             var config = new TemplateServiceConfiguration();

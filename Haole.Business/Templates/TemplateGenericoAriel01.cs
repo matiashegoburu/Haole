@@ -5,9 +5,9 @@ using System.Drawing.Text;
 using System.IO;
 using System.Linq;
 
-namespace Haole.Business
+namespace Haole.Business.Templates
 {
-    public class FlyerGeneratorManager : IFlyerGenerator
+    public class TemplateGenericoAriel01 : IFlyerTemplate<TemplateGenericoAriel01Model>
     {
         private readonly string _basePath;
         private readonly PrivateFontCollection _fontCollection;
@@ -17,10 +17,18 @@ namespace Haole.Business
         private readonly Font _fontFooter;
         private readonly Font _fontAwesome;
         private readonly StringFormat _stringFormat;
+        private readonly IImageUtils _imageUtils;
 
-        public FlyerGeneratorManager(string basePath)
+        public TemplateGenericoAriel01(string basePath)
+            : this(new ImageUtils(), basePath)
+        {
+        }
+
+        public TemplateGenericoAriel01(IImageUtils imageUtils, string basePath)
         {
             _basePath = basePath;
+            _imageUtils = imageUtils;
+
             _brush = new SolidBrush(Color.Black);
             _fontCollection = new PrivateFontCollection();
             _fontCollection.AddFontFile(Path.Combine(_basePath, "Content", "Fonts", "Vnhltfap.ttf"));
@@ -45,13 +53,13 @@ namespace Haole.Business
             _stringFormat.Dispose();
         }
 
-        private void InitializeFonts(FlyerModel model)
+        private void InitializeFonts(TemplateGenericoAriel01Model model)
         {
             _fontEventName = new Font(_fontCollection.Families.Last(), model.EventNameFontSize);
             _fontEventDescription = new Font("Georgia", model.EventDescriptionFontSize);
         }
 
-        public void Generate(FlyerModel model)
+        public void Generate(TemplateGenericoAriel01Model model)
         {
             RectangleF eventNameRect = RectangleF.Empty;
             RectangleF eventDescriptionRect = RectangleF.Empty;
@@ -60,7 +68,7 @@ namespace Haole.Business
 
             InitializeFonts(model);
 
-            using (var resizedImage = ScaleImage(model.Image, model.FlyerWidth))
+            using (var resizedImage = _imageUtils.ScaleImage(model.Image, model.FlyerWidth))
             {
                 #region Calculate placeholders for each section
                 // calculate the height and position of each segment of the flyer: name, description, image, and footer.
@@ -85,6 +93,7 @@ namespace Haole.Business
                 // and we know where to position each segment
                 using (var bitmap = new Bitmap(model.FlyerWidth, (int)footerRect.Bottom))
                 {
+
                     using (var graphic = Graphics.FromImage(bitmap))
                     {
                         graphic.TextRenderingHint = TextRenderingHint.AntiAlias;
@@ -140,23 +149,6 @@ namespace Haole.Business
             var sizeAddress = graphic.MeasureString("Pje. Bobone 515 esq. Montevideo 1150", _fontFooter);
             graphic.DrawString("Pje. Bobone 515 esq. Montevideo 1150", _fontFooter, _brush, (bitmap.Width - sizeAddress.Width - 30), footerRect.Top + sizePhone.Height + sizeAddress.Height);
             graphic.DrawString("", _fontAwesome, _brush, (bitmap.Width - 30), footerRect.Top + sizePhone.Height + sizeAddress.Height);
-        }
-
-        private static Image ScaleImage(Image image, int maxWidth)
-        {
-            if (image == null) return null;
-
-            var ratio = (double)maxWidth / image.Width;
-
-            var newWidth = (int)(image.Width * ratio);
-            var newHeight = (int)(image.Height * ratio);
-
-            var newImage = new Bitmap(newWidth, newHeight);
-            using (var g = Graphics.FromImage(newImage))
-            {
-                g.DrawImage(image, 0, 0, newWidth, newHeight);
-            }
-            return newImage;
         }
     }
 }

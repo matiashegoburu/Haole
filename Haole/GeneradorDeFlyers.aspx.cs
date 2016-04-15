@@ -1,11 +1,6 @@
-﻿using Haole.Business;
+﻿using Haole.Business.Templates;
 using System;
-using System.Collections.Generic;
 using System.Drawing;
-using System.Linq;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
 
 namespace Haole
 {
@@ -18,7 +13,7 @@ namespace Haole
 
         protected void btnGenerar_Click(object sender, EventArgs e)
         {
-            using (var generator = new FlyerGeneratorManager(Server.MapPath("/")))
+            using (var generator = new TemplateGenericoAriel01(Server.MapPath("/")))
             {
                 System.Drawing.Image img = null;
 
@@ -30,7 +25,7 @@ namespace Haole
                 var filename = "flyer.png";
                 try
                 {
-                    generator.Generate(new Business.Model.FlyerModel
+                    generator.Generate(new Business.Model.TemplateGenericoAriel01Model
                     {
                         FlyerWidth = int.Parse(txtFlyerAncho.Text),
                         EventName = txtNombre.Text,

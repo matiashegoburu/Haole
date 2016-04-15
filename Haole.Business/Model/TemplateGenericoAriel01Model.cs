@@ -2,9 +2,9 @@
 
 namespace Haole.Business.Model
 {
-    public class FlyerModel
+    public class TemplateGenericoAriel01Model
     {
-        public FlyerModel()
+        public TemplateGenericoAriel01Model()
         {
             BackgroundImageFilename = "paper_texture3873.jpg";
         }

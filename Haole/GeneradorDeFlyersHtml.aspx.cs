@@ -17,7 +17,7 @@ namespace Haole
 
         protected void btnGenerar_Click(object sender, EventArgs e)
         {
-            var model = new Business.Model.FlyerModel
+            var model = new Business.Model.TemplateGenericoAriel01Model
             {
                 BaseUrl = ConfigurationManager.AppSettings["baseUrl"], 
                 EventName = txtNombre.Text,

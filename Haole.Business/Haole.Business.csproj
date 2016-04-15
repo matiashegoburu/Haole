@@ -58,10 +58,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FlyerGeneratorManager.cs" />
+    <Compile Include="IImageUtils.cs" />
+    <Compile Include="ImageUtils.cs" />
+    <Compile Include="Templates\TemplateGenericoAriel01.cs" />
     <Compile Include="HtmlFlyerGeneratorManager.cs" />
-    <Compile Include="IFlyerGenerator.cs" />
-    <Compile Include="Model\EventModel.cs" />
+    <Compile Include="IFlyerTemplate.cs" />
+    <Compile Include="Model\TemplateGenericoAriel01Model.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
