@@ -5,7 +5,8 @@ title: "Zhi Neng Qigong"
 subheadline: "Sanación a través de la energía inteligente"
 teaser: "Ejercicios para sentirse bien"
 header:
-   image_fullwidth: "homeHeader.png"
+   title: ""
+   image_fullwidth: "zhi neng qi gong.png"
 permalink: "/zhineng-qigong/"
 ---
 **Zhineng Qigong** es un sistema de Qigong moderno que se caracteriza por ser un sistema fácil de aprender y transmitir, a la vez que es muy efectivo para la sanación y el desarrollo de la conciencia. Este sistema fue diseñado por el maestro Pang Ming, que ha condensado la esencia de muchos sistemas y enseñanzas tradicionales, en conjunto con conocimiento médico convencional y de la medicina tradicional china. El resultado es un sistema integral de auto sanación y de cultivo de la conciencia apto para el mundo moderno.
