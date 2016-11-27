@@ -12,7 +12,13 @@ permalink: "/zhineng-qigong/"
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
-**Table of Contents**
+**Horarios de clase**
+* Zhi Neng I: Martes y Jueves de 19.30 a 20.30
+* Zhi Neng II: Martes y Jueves de 20.30 a 21.30
+Para mas información, por favor [ponerse en contacto con nosotros usando este enlace.](/contacto/)
+</div>
+<div class="panel radius" markdown="1">
+**Indice**
 {: #toc }
 *  TOC
 {:toc}
