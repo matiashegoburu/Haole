@@ -9,8 +9,6 @@ sidebar: right
 header:
   title: header with text
   image_fullwidth: header_unsplash_12.jpg
-  caption: This is a caption for the header image with link
-  caption_url: https://unsplash.com/
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
