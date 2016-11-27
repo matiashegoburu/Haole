@@ -5,6 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: page
+sidebar: right
 header:
   image_fullwidth: header_unsplash_12.jpg
 permalink: /index.html
