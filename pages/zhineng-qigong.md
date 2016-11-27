@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 show_meta: false
 title: "Zhi Neng Qigong"
 subheadline: "Sanación a través de la energía inteligente"
@@ -9,6 +9,17 @@ header:
    image_fullwidth: "zhi neng qi gong.png"
 permalink: "/zhineng-qigong/"
 ---
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Table of Contents**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
 **Zhineng Qigong** es un sistema de Qigong moderno que se caracteriza por ser un sistema fácil de aprender y transmitir, a la vez que es muy efectivo para la sanación y el desarrollo de la conciencia. Este sistema fue diseñado por el maestro Pang Ming, que ha condensado la esencia de muchos sistemas y enseñanzas tradicionales, en conjunto con conocimiento médico convencional y de la medicina tradicional china. El resultado es un sistema integral de auto sanación y de cultivo de la conciencia apto para el mundo moderno.
 
 Qigong es una antigüa técnica de sanación a través del uso de la energía que se ha desarrollado por mas de 5000 años de historia China. A través de movimientos suaves, visualizaciones, sonido, respiración e intención consciente, la práctica de Qigong restaura la energía vital y el poder creativo del ser. A medida que se liberan las causas de los desafíos en nuestra vida, uno se reconecta con la fuente universal y recibe un nuevo flujo de energía vital. A través de esta práctica, amplificas la red de cambios positivos para tí, tus seres queridos y el planeta Tierra.
@@ -44,3 +55,5 @@ En 1980 el maestro Dr. Pang Ming funda el hospital sin medicinas mas grande del 
 Durante la existencia del hospital, los pacientes que se admitían en el Centro eran diagnosticados por profesionales médicos, y luego asignados a un instructor de Qigong. Luego de 24 días de estadía y práctica, se les hacía un grupo de exámenes médicos. Los pacientes eran considerados alumnos, que aprendían la forma de sanarse a sí mismos, y se graduaban físicamentes sanos o en recuperación, y como seres mas felices e íntegros.
 
 El centro ha entrenado a miles de instructores de Qigong y muchos Maestros. Muchos de ellos han elegido dedicar su vida a la sanación mediante el Qigong, para compartir y enseñar.
+</div>
+</div>
