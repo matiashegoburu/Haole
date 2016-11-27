@@ -1,9 +1,21 @@
-- title: Start
+- title: Inicio
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Taiji Chen
+  url: "/taiji-chen/"
+  side: left
+
+- title: Zhi Neng Qigong
+  url: "/zhineng-qigong/"
+  side: left
+
+- title: Reiki
+  url: "/reiki/"
+  side: left
+
+- title: Bendiciones del Útero
+  url: "/bendiciones-del-utero/"
   side: left
 
 - title: "Templates"
@@ -21,55 +33,11 @@
   - title: "Post-Right-Sidebar"
     url: "/design/post-right-sidebar/"
   - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
 
-- title: "Header Styles"
-  url: "/headers/"
-  side: left
-  dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
-
-- title: Documentation
-  url: "/documentation/"
-  side: left
-  dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
-
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-- title: "Search"
-  url: "/search/"
+- title: "Acerca de nosotros"
+  url: "/acerca-de/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
+- title: "Contacto"
+  url: "/contacto/"
   side: right
