@@ -7,7 +7,6 @@
 layout: page
 sidebar: right
 header:
-  title: ""
   image_fullwidth: abstracta1.png
 permalink: /index.html
 #
