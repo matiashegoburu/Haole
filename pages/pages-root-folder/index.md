@@ -15,5 +15,14 @@ permalink: /index.html
 #
 homepage: true
 ---
+# Crece
+## Taiji Chen · Zhi Neng Qigong
+Aprender a practicar Reiki, Zhi Neng Qigong o Taijiquan te dará las herramientas para que, paso a paso, puedas empezar a tomar el control sobre tu vida, tu salud y tu bienestar, para mantenerte sano o para sanar cualquier tipo de malestar que puedas estar transitando.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Los ejercicios fortalecen la energía del cuerpo, las defensas naturales y despiertan habilidades latentes; son simples, suaves y efectivos, apto para todo tipo de persona.
+
+# Sana
+## Reiki · Bendiciones del Útero
+El Reiki es sanación con energía del Universo. Fomenta la salud a partir de fortalecer el sistema inmune y los mecanismos defensivos del cuerpo. Excelente para aliviar cualquier tipo de dolor, bajar el estrés, ayudar a dormir mejor, a permanecer calmo en tiempos de turbulencia física, mental y emocional. 
+
+También es un excelente complemento a todo tipo de terapia, para promover los efectos sanadores y neutralizar los efectos secundarios. Las Bendiciones del Utero es un trabajo específico para sanar la energía femenina.
