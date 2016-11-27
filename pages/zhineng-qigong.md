@@ -14,7 +14,7 @@ permalink: "/zhineng-qigong/"
 Qigong es una antigüa técnica de sanación a través del uso de la energía que se ha desarrollado por mas de 5000 años de historia China. A través de movimientos suaves, visualizaciones, sonido, respiración e intención consciente, la práctica de Qigong restaura la energía vital y el poder creativo del ser. A medida que se liberan las causas de los desafíos en nuestra vida, uno se reconecta con la fuente universal y recibe un nuevo flujo de energía vital. A través de esta práctica, amplificas la red de cambios positivos para tí, tus seres queridos y el planeta Tierra.
 
 <div class="flex-video">
-   <iframe src="www.youtube.com/watch?v=CtXILEDEehE&t=17s" width="1280" height="720" frameborder="0" allowfullscreen=""></iframe>
+   <iframe src="http://www.youtube.com/watch?v=CtXILEDEehE&t=17s" width="1280" height="720" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
 ## Beneficios
