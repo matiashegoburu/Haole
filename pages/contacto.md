@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Contacto"
+header: no
 meta_title: "Medios de contacto"
 subheadline: "Comunicate con nosotros"
 teaser: "¿Necesitas ponerte en contacto con nosotros?"
