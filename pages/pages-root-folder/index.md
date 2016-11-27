@@ -8,7 +8,7 @@ layout: page
 sidebar: right
 header:
   title: header with text
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: abstracta1.png
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
