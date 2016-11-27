@@ -7,7 +7,7 @@
 layout: page
 sidebar: right
 header:
-  title: ""
+  title: "Escuela Haole"
   image_fullwidth: abstracta1.png
 permalink: /index.html
 #
