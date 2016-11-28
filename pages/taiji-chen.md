@@ -12,6 +12,7 @@ permalink: /taiji-chen/
 <div class="medium-4 medium-push-8 columns" markdown="1">
 <div class="panel radius" markdown="1">
 **Horarios de clase**
+
 Martes y Jueves de 18.00 a 19.30
 
 Para mas información, por favor [ponerse en contacto con nosotros usando este enlace.](/Haole/contacto/)
