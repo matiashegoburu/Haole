@@ -10,6 +10,7 @@ published: true
 ---
 ## Medios de contacto
 Podes ponerte en contacto con nosotros de las siguientes maneras:
+
 * **Por correo electrónico:** [info@escuelahaole.com.ar](mailto:info@zhineng.com.ar?subject=Zhineng.com.ar - Contacto")
 * **Por teléfono o WhatsApp:** +54 351 15-751-6335
 * **Por facebook:** [www.facebook.com/escuelaHaole](www.facebook.com/escuelaHaole)
