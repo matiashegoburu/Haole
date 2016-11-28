@@ -1,13 +1,14 @@
 ---
 layout: page-fullwidth
 show_meta: false
-title: "Zhi Neng Qigong"
-subheadline: "Sanación a través de la energía inteligente"
-teaser: "Ejercicios para sentirse bien"
+title: Zhi Neng Qigong
+subheadline: Sanación a través de la energía inteligente
+teaser: Ejercicios para sentirse bien
 header:
-   title: ""
-   image_fullwidth: "zhi neng qi gong.png"
-permalink: "/zhineng-qigong/"
+  title: ''
+  image_fullwidth: zhi neng qi gong.png
+permalink: /zhineng-qigong/
+published: true
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
@@ -17,7 +18,15 @@ permalink: "/zhineng-qigong/"
 * Zhi Neng I: Martes y Jueves de 19.30 a 20.30
 * Zhi Neng II: Martes y Jueves de 20.30 a 21.30
 
-Para mas información, por favor [ponerse en contacto con nosotros usando este enlace.](/contacto/)
+Para mas información, por favor [ponerse en contacto con nosotros usando este enlace.](/Haole/contacto/)
+</div>
+<div class="panel radius" markdown="1">
+**Actividades programadas**
+
+{% include list-posts entries='5' category='eventos' tag='zhineng' %}
+
+[Ver más](/Haole/actividades/)
+
 </div>
 <div class="panel radius" markdown="1">
 **Indice**
