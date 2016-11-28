@@ -25,8 +25,6 @@ Para mas información, por favor [ponerse en contacto con nosotros usando este e
 
 {% include list-posts entries='5' category='eventos' tag='zhineng' %}
 
-[Ver más](/Haole/actividades/)
-
 </div>
 <div class="panel radius" markdown="1">
 **Indice**
