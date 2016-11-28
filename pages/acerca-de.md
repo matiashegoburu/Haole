@@ -17,6 +17,7 @@ permalink: /acerca-de/
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
 ## Acerca de Matías Hegoburu
+
 ### Instructor de Zhineng Qigong y maestro de Reiki
 
 Matias es instructor de Zhineng Qigong, Master Teacher de Reiki Usui, ademas de conocimientos en sanación con sonido y cristales. Gusta de la practica del Tai chi chuan estilo Yang. Actualmente es alumno de la escuela Cordoba Tai chi, sucursal YMAA Córdoba, y se desempeña adicionalmente como analista programador.
