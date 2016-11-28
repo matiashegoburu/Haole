@@ -5,5 +5,6 @@ header:
   title: ''
   image_fullwidth: reiki2.png
 permalink: /reiki/
+published: true
 ---
-
+sdfd
