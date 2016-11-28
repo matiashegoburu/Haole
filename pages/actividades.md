@@ -7,4 +7,4 @@ teaser: Estas son nuestras actividades programadas
 permalink: /actividades/
 header: 'no'
 ---
-{% include list-posts category="actividades" %}
+{% include list-posts category='actividades' %}
