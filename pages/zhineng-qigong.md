@@ -23,7 +23,7 @@ Para mas información, por favor [ponerse en contacto con nosotros usando este e
 <div class="panel radius" markdown="1">
 **Actividades programadas**
 
-{% include list-posts entries='5' category='eventos' tag='zhineng' %}
+{% include list-posts entries='5' category='actividades' tag='zhineng' %}
 
 </div>
 <div class="panel radius" markdown="1">
