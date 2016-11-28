@@ -20,6 +20,11 @@ teaser: null
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
+
+<div class="flex-video">
+   <iframe width="1280" height="720" src="https://www.youtube.com/embed/xM_JNYL0lm8" frameborder="0" allowfullscreen></iframe>
+</div>
+
 Reiki es una técnica energética que equilibra y armoniza.
 
 Simplemente saca donde hay un exceso, y coloca donde hay un faltante. Restableciendo así nuevamente el equilibrio y la armonía.
@@ -38,10 +43,6 @@ Reiki actua en el nivel holísticos, integral . Logrando un efecto sanador en to
 El Reiki es una terapia accesible a todas las personas de todas las edades, ya que está libre de efectos adversos, libre de catarsis, libre de requisitos.
 
 El paciente comienza con su proceso con la intención de mejorar su estado y solicitando recibir Reiki.
-
-<div class="flex-video">
-   <iframe width="1280" height="720" src="https://www.youtube.com/embed/xM_JNYL0lm8" frameborder="0" allowfullscreen></iframe>
-</div>
 
 </div>
 </div>
