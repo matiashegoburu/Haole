@@ -6,5 +6,7 @@ header:
   image_fullwidth: reiki2.png
 permalink: /reiki/
 published: true
+title: Reiki
+teaser: null
 ---
 sdfd
