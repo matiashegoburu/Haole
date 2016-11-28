@@ -35,13 +35,13 @@ Para mas información, por favor [ponerse en contacto con nosotros usando este e
 </div><!-- /.medium-4.columns -->
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
-**Zhineng Qigong** es un sistema de Qigong moderno que se caracteriza por ser un sistema fácil de aprender y transmitir, a la vez que es muy efectivo para la sanación y el desarrollo de la conciencia. Este sistema fue diseñado por el maestro Pang Ming, que ha condensado la esencia de muchos sistemas y enseñanzas tradicionales, en conjunto con conocimiento médico convencional y de la medicina tradicional china. El resultado es un sistema integral de auto sanación y de cultivo de la conciencia apto para el mundo moderno.
-
-Qigong es una antigüa técnica de sanación a través del uso de la energía que se ha desarrollado por mas de 5000 años de historia China. A través de movimientos suaves, visualizaciones, sonido, respiración e intención consciente, la práctica de Qigong restaura la energía vital y el poder creativo del ser. A medida que se liberan las causas de los desafíos en nuestra vida, uno se reconecta con la fuente universal y recibe un nuevo flujo de energía vital. A través de esta práctica, amplificas la red de cambios positivos para tí, tus seres queridos y el planeta Tierra.
-
 <div class="flex-video">
    <iframe width="1280" height="720" src="https://www.youtube.com/embed/CtXILEDEehE" frameborder="0" allowfullscreen></iframe>
 </div>
+
+**Zhineng Qigong** es un sistema de Qigong moderno que se caracteriza por ser un sistema fácil de aprender y transmitir, a la vez que es muy efectivo para la sanación y el desarrollo de la conciencia. Este sistema fue diseñado por el maestro Pang Ming, que ha condensado la esencia de muchos sistemas y enseñanzas tradicionales, en conjunto con conocimiento médico convencional y de la medicina tradicional china. El resultado es un sistema integral de auto sanación y de cultivo de la conciencia apto para el mundo moderno.
+
+Qigong es una antigüa técnica de sanación a través del uso de la energía que se ha desarrollado por mas de 5000 años de historia China. A través de movimientos suaves, visualizaciones, sonido, respiración e intención consciente, la práctica de Qigong restaura la energía vital y el poder creativo del ser. A medida que se liberan las causas de los desafíos en nuestra vida, uno se reconecta con la fuente universal y recibe un nuevo flujo de energía vital. A través de esta práctica, amplificas la red de cambios positivos para tí, tus seres queridos y el planeta Tierra.
 
 ## Beneficios
 * Fortalece el sistema inmune y endócrino
