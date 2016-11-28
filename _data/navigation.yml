@@ -18,6 +18,10 @@
   url: "/bendiciones-del-utero/"
   side: left
 
+- title: "Actividades"
+  url: "/eventos/"
+  side: left
+  
 - title: "Acerca de nosotros"
   url: "/acerca-de/"
   side: right
