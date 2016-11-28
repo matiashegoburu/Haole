@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: Bendiciones del Útero
-subheadline: Arminizando la energía femenina
+subheadline: Armonizando la energía femenina
 teaser: 
 header:
   title: ''
