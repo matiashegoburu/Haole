@@ -39,6 +39,8 @@ Actualmente Matías continua su formación en este centro, además de su aprendi
 
 ## Acerca de Claudia Zelaya
 
+**Instructora de Taiji estilo Chen, Moon Mother y Maestra de Reiki**
+
 En el año 2005 comencé a practicar meditación y poco a poco la práctica me trajo un estado de tranquilidad y paz profundas. Con el paso del tiempo descubrí el Tai Chi Chuan y lo que más me atrajo fue su nombre Tai chi “Meditación en movimiento” y también me parecía todo un desafío y una maravilla disfrutar de la meditación en movimiento y no solo en un estado estático. Como dicen…una cosa lleva a la otra y re-descubrí ( para mí ) el Reiki.
 
 Paso el tiempo y complete mi formación como profesor de Tai Chi Chuan y Maestro de Reiki Usui Tibetano. Actualmente no me imagino otra forma de vivir el día a día. La práctica de Tai chi y Reiki son para mí el complemento ideal, para mantener y sostener mi estado de bienestar y salud.
