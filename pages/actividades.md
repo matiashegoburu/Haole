@@ -1,7 +1,10 @@
 ---
 layout: page
+published: true
+meta_title: Actividades
+subheadline: Actividades y eventos programados
+teaser: Estas son nuestras actividades programadas
+permalink: /actividades/
+header: 'no'
 ---
-
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+{% include list-posts %}
