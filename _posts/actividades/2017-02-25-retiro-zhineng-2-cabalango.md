@@ -23,11 +23,13 @@ header: 'no'
 ---
 ## INTRODUCCIÓN
 Zhineng Qigong es un sistema simple de aprender y fácil de practicar. Es apto para personas de todas las edades y condición física. No requiere ningun tipo de entrenamiento previo, y es apto incluso para personas con dificultades de salud.
+
 ## OBJETIVO
 El objetivo del retiro es estar en un ambiente tranquilo, alejado de los apuros y de las prisas, en contacto con la naturaleza, y realizar un trabajo intensivo de sanación y de conexión con nosotros mismos a través de la práctica de Zhineng Qigong nivel II. Se busca que al final del seminario, los participantes:
 hayan experimentado la conexión con sus propios cuerpos,
 hayan tomado conciencia del Qi y sus sensaciones,
 se puedan llevar una herramienta para trabajar sobre ellos mismos al retornar a sus vidas cotidianas
+
 ## INSCRIPCIONES
 Las inscripciones cierran el Viernes 10 de Febrero.
 Requisitos para la inscripción:
@@ -37,6 +39,7 @@ La inscripción se puede realizar por los siguientes medios:
 * por via telefónica al (0351) 15-246-8058
 * por correo electrónico a info@zhineng.com.ar
 * a través de nuestra pagina de facebook: https://www.facebook.com/ZhinengQigongCordoba
+
 ## COSTOS
 El valor del retiro es:
 * Hasta el 31 de Enero: $3500 ARS
@@ -49,8 +52,8 @@ El precio incluye:
 
 ## TEMARIO
 1. Introducción al método
-a. Caracaterísticas del Método
-b. Beneficios del Método
+ 1. Caracaterísticas del Método
+ 2. Beneficios del Método
 2. Practica: La forma del cuerpo y la mente
 a. Formación y práctica de los 10 segmentos
 b. Cada segmento con sus requerimientos posturales, errores mas frecuentes y actividad mental
