@@ -145,5 +145,40 @@ Actualmente Matías continua su formación en este centro, además de su aprendi
 * Retiro de práctica de Taijiquan estilo Yang. 60 horas de práctica a cargo del Maestro Dr. Yang Jwing-Ming.
 * Seminario de Taiji en silla de ruedas en Atlanta, Georgia, USA, a cargo del Profesor Zibin Guo (2012).
 
+## ACERCA DE ZHINENG QIGONG
+Zhineng Qigong es un estilo fácil de aprender y practicar, apto para todas las edades y condiciones físicas, cuyo objetivo es mejorar la salud y despertar la sabiduría interna. Zhineng divide la enseñanza en varios niveles que se enseñan de forma ordenada y sistemática.
+
+El segundo nivel de Zhineng tiene los siguientes beneficios:
+
+* Fortalece los musculos, tendones, huesos y ligamentos
+* Fortalece el cuerpo y desarrolla la belleza natural
+* Unifica el cuerpo y la mente
+
+## ACERCA DE SUEÑOS DEL ALMA
+En “Sueños del Alma” Te invitamos a vivir una experiencia en contacto con la naturaleza: arroyito, arboles ancianos, vegetación autóctona, piedras, el sonido del viento, las estrellas, fauna autóctona, los colores del atardecer y del amanecer… Cerca de Todo y a la vez inmerso en la naturaleza, abstraídos de ruidos y contaminación.
+
+### RESEÑA DEL LUGAR, COMODIDADES Y PRESTACIONES
+Situado a 15km de Villa Carlos paz, en la localidad de CABALANGO se encuentra nuestro espacio: Sueños del Alma Cabalango. Un predio de 5 hectáreas rodeadas por el arroyo “Las Salinas”.
+La Casa Grande: La construcción cuenta con una habitación (habitación Tala) con lugar para 13 personas con baño interno, habitación Algarrobo con lugar para 6 pasajeros y la habitación Aguaribay con baño privado y lugar par 3 personas. Además cuanta con un multiespacio con una cocinita, mas, una galería con asador y baños externos con duchas.
+
+* **El Templo:** reciclamos un antiguo tanque australiano, techo de madera, excelente acústica e iluminación natural. Un bellísimo salón circular adaptado para realizar múltiples actividades como yoga, meditación, terapia de sonido, danzas circulares, terapias para el alma en general.
+* **El laberinto de cuarzo:** un laberinto construido con rocas de cuarzo de la zona, orientado a los 4 puntos cardinales, “te lleva a tu propio centro”, “alinea tus chacras”, “lleva a que estés aquí y ahora”…
+* **Nuestro hexágono:** espacio techado para disfrutar del aire libre.
+* **Nuestro Comedor hexagonal:** con una vista increíble y mucha calidez.-
+* **EL Arroyo y la Cascada:** a 100mts de “la casa grande” tenemos una bellísima cascadita del afluente del arroyo Las Salinas, un pasadizo de cañas tacuaras, un diquecito apto para refrescarse y más de 500mts de arroyo para caminarlo y disfrutar de sus encantos.
+* **Lugar de Fogón:** El fuego siempre es nuestro compañero.
+
+### LOS RECURSOS: LUZ, GAS, AGUA
+
+* Agua es de Pozo, Luz eléctrica.
+* El Gas es de garrafa.
+* El Agua caliente de los Baños será suministrada mediante un calefón a leña. Se acordaran horario para bañarse.
+
+### SUGERENCIAS PARA MAYOR COMODIDAD DURANTE LA ESTADÍA
+
+* Linterna, toalla y toallón, elementos de higiene personal, repelente, abrigo para la noche, buen calzado, ojotas o chancletas para estar adentro, pareo o lona para el rio, sombrero o gorra para el sol, botella 500ml o recipiente para beber agua con continuidad, gafas de sol, cámara de fotos, equipo de mate…
+* Si toma medicación recuerde traerla.
+* Si sufre alergias de algún tipo nos lo informa con anterioridad.
+* Si está haciendo alguna dieta en particular nos informas para que sea tenido en cuenta
 </div>
 </div>
