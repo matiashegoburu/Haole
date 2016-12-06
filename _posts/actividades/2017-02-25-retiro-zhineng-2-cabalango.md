@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Retiro de Zhi Neng 2 en Cabalango
 subheadline: '25, 26, 27 y 28 de Febrero 2017'
 teaser: >-
