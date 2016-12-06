@@ -16,7 +16,7 @@ categories:
 tags:
   - zhineng
 image:
-  title: Facebook event.png
+  title: actividades/2017-02-25-retiro-zhineng-2/Facebook event.png
 author: matias
 published: true
 ---
