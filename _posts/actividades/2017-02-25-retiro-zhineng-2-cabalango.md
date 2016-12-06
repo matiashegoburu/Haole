@@ -110,5 +110,40 @@ El precio incluye:
 |------------- | ---------------- | ------------- | ------------------------------------- |
 | 2:00:00      | 8:00:00 PM       | 10:00:00 PM   | Cena                                  |
 
+## ACERCA DE MATÍAS HEGOBURU
+Matias es instructor de Zhineng Qigong, Master Teacher de Reiki Usui, Practicante de Técnicas de Sanación Arcturianas, ademas de conocimientos en sanación con sonido y cristales. Gusta de la practica del Tai chi chuan estilo Yang. Actualmente es alumno de la escuela Cordoba Tai chi, sucursal Yang Martial Arts Association Córdoba, y se desempeña adicionalmente como analista programador.
+
+Matías comenzó estudiando Medicina Tradicional China en la Fundación Naturopática Argentina de Mario Schwarz. Allí fue introducido en el mundo del Qigong médico y mas específicamente, del Zhineng Qigong. Este sistema tuvo tal impacto que desde ese momento decidió dejar el estudio de la medicina china y dedicarse de forma exclusiva a profundizar sobre el Zhineng Qigong, debido a su simplicidad, claridad en la forma en que se transmite la enseñanza, flexibilidad a la hora de enseñar, y por sobre todo su efectividad.
+
+Matías ha practicado Zhineng Qigong por varios años, y dado los excelentes resultados que ha notado, se siente honrado de compartir esta práctica. Zhineng Qigong es un sistema completo, que en su nivel más elemental, permite a las personas sanar sus cuerpos, mentes y espíritus, y tomar responsabilidad sobre sus vidas y estado de salud. En su nivel mas profundo, Zhineng Qigong es un sistema completo para la evolución del ser. Zhineng permite mejorarnos como personas, como sociedad y como raza, transformandonos a nosotros mismos y convirtiendonos en lo que queremos ver en el mundo.
+
+Por varios años Matías fue autodidacta, aprendiendo de todo tipo de material que pudiera encontrar: libros, videos, y sitios web, hasta que eventualmente conoce el Yuan Tze Centre de Nueva Zelanda, donde se siente a gusto con las enseñanzas del maestro Yuan Tze, y donde es bien recibido como alumno.
+
+Actualmente Matías continua su formación en este centro, además de su aprendizaje autotidacta, y esta habilitado para enseñar los dos primeros niveles de Zhineng Qigong.
+
+### EXPERIENCIA
+
+* Escuela Córdoba Tai Chi: Instructor de Zhineng Qigong (2015 – en curso)
+* Escuela Córdoba Tai Chi: Dictado del Taller “Zhineng I” (2015)
+* Dictado del Taller “8 Ejercicios Fundamentales”, en el marco del retiro de Taiji y Qigong de la escuela “El Centro” de La Plata, organizado por el Profesor Gustavo Villar  en Capilla del Monte (2015)
+* Escuela Córdoba Tai Chi: Dictado del Taller “8 Ejercicios Funadmentales” (2014)
+
+### FORMACIÓN
+
+* Escuela Yuan Tze Center - Instructor de Zhineng Qigong (2013 - en curso)
+* Escuela Córdoba Tai chi – Yang Martial Arts Association Córdoba: Practicante de Taiji Quan estilo Yang (2011 - en curso)
+* Escuela Kai Men - Practicante de Taiji Quan estilo Yang (2004 - 2010)
+* Escuela de Reiki - Reiki Usui Master / Teacher (2000 - 2003)
+* Escuela Luz Venidera - Terapeuta de Sonido (2000 - 2003)
+* Universidad Abierta Interamericana - Lic. En Sistemas de Información (2000 - 2005)
+
+### SEMINARIOS
+
+* Escuela Yang Martial Arts Association Chile: Retiro de Verano 2014
+* Retiro de práctica de Taijiquan estilo Yang. 60 horas de práctica a cargo del Maestro Dr. Yang Jwing-Ming.
+* Escuela Yang Martial Arts Association Córdoba: Retiro de Verano 2013
+* Retiro de práctica de Taijiquan estilo Yang. 60 horas de práctica a cargo del Maestro Dr. Yang Jwing-Ming.
+* Seminario de Taiji en silla de ruedas en Atlanta, Georgia, USA, a cargo del Profesor Zibin Guo (2012).
+
 </div>
 </div>
