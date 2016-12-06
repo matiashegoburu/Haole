@@ -69,15 +69,16 @@ El precio incluye:
 * 4 desayunos, 4 almuerzos, 4 meriendas y 3 cenas (personas que sigan una dieta especial, consultar)
 
 ## TEMARIO
+
 1. Introducción al método
   1. Caracaterísticas del Método
   2. Beneficios del Método
 2. Practica: La forma del cuerpo y la mente
-a. Formación y práctica de los 10 segmentos
-b. Cada segmento con sus requerimientos posturales, errores mas frecuentes y actividad mental
+  1. Formación y práctica de los 10 segmentos
+  2. Cada segmento con sus requerimientos posturales, errores mas frecuentes y actividad mental
 3. Practica: Guiando el Qi por los meridianos principales
-a. Introduccion
-b. Descripcion y práctica del método
+  1. Introduccion
+  2. Descripcion y práctica del método
 
 </div>
 </div>
