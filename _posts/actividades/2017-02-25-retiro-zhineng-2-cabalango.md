@@ -200,6 +200,8 @@ La Casa Grande: La construcción cuenta con una habitación (habitación Tala) c
 * Si sufre alergias de algún tipo nos lo informa con anterioridad.
 * Si está haciendo alguna dieta en particular nos informas para que sea tenido en cuenta
 
+### FOTOS DEL LUGAR
+
 {% include gallery %} 
 
 </div>
