@@ -20,6 +20,25 @@ image:
 author: matias
 published: true
 header: 'no'
+gallery:
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/01.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/02.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/03.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/04.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/05.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/06.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/07.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/08.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/09.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/10.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/11.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/12.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/13.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/14.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/15.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/16.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/17.jpg
+  - image_url: actividades/2017-02-25-retiro-zhineng-2/18.jpg
 ---
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
@@ -180,5 +199,8 @@ La Casa Grande: La construcción cuenta con una habitación (habitación Tala) c
 * Si toma medicación recuerde traerla.
 * Si sufre alergias de algún tipo nos lo informa con anterioridad.
 * Si está haciendo alguna dieta en particular nos informas para que sea tenido en cuenta
+
+{% include gallery %} 
+
 </div>
 </div>
