@@ -21,6 +21,18 @@ author: matias
 published: true
 header: 'no'
 ---
+<div class="row">
+<div class="medium-4 medium-push-8 columns" markdown="1">
+<div class="panel radius" markdown="1">
+**Indice**
+{: #toc }
+*  TOC
+{:toc}
+</div>
+</div><!-- /.medium-4.columns -->
+
+<div class="medium-8 medium-pull-4 columns" markdown="1">
+
 ## INTRODUCCIÓN
 Zhineng Qigong es un sistema simple de aprender y fácil de practicar. Es apto para personas de todas las edades y condición física. No requiere ningun tipo de entrenamiento previo, y es apto incluso para personas con dificultades de salud.
 
@@ -66,3 +78,6 @@ b. Cada segmento con sus requerimientos posturales, errores mas frecuentes y act
 3. Practica: Guiando el Qi por los meridianos principales
 a. Introduccion
 b. Descripcion y práctica del método
+
+</div>
+</div>
