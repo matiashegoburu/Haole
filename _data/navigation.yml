@@ -22,6 +22,10 @@
   url: "/actividades/"
   side: left
   
+- title: Fotos
+  url: https://goo.gl/photos/MUuxc7sXd7YHRtZY6
+  side: left
+  
 - title: "Acerca de nosotros"
   url: "/acerca-de/"
   side: right
