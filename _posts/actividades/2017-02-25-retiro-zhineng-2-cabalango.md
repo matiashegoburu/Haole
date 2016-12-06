@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: Retiro de Zhi Neng 2 en Cabalango
-subheadline: '25, 26, 27 y 28 de Febrero 2017'
+subheadline: 'Zhi Neng 2: El Método del Cuerpo y la Mente'
 teaser: >-
   Retiro intensivo de Zhi Neng 2 en las sierras de Cabalango, Cordoba,
   Argentina. A  llevarse a cabo los días 25, 26, 27 y 28 de Febrero de 2017, en
