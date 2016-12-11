@@ -44,8 +44,11 @@ Tu edad, tu situación o tu experiencia son detalles. Todos las mujeres nos bene
 Te invito a participar de la próxima Bendición del Útero conmigo para crecer, integrar y sanar juntas. Como amigas, como hermanas, como mujeres en circulo.
 
 **Claudia Zelaya**
+
 Moon Mother by Miranda Gray
+
 0351-152468058
+
 [claudiazela@gmail.com](mailto:claudiazela@gmail.com)
 
 ## Sesiones Individuales
@@ -59,6 +62,14 @@ En mi aprendizaje, recibir una Bendición del Útero es una experiencia simple y
 
 Abrimos una puerta y están todas invitadas a pasar. Podemos recorrer este camino que llamamos vida con armonía, amor y sabiduría. 
 Crecer juntas, compartir y ayudarnos en el proceso evolutivo y sanador.
+
+**Claudia Zelaya**
+
+Moon Mother by Miranda Gray
+
+0351-152468058
+
+[claudiazela@gmail.com](mailto:claudiazela@gmail.com)
 
 </div>
 </div>
