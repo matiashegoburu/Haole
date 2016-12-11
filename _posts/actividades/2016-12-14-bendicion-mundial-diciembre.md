@@ -23,6 +23,12 @@ De *'Female Energy Awakening'* de **Miranda Gray**
 
 Caminen con nosotras el sendero del despertar femenino el 14 de diciembre de 2016.
 
+Las espero **el miércoles 14 Diciembre 19:30 en Esc. Haole**
+
+Facilita: Claudia Zelaya Moon Mother by Miranda Gray
+
+Actividad a la Gorra – Traer un alimento para compartir- Inscripcion previa
+
 **Paso 1:**
 Inscribete en la pagina web: [http://www.wombblessing.com/](http://www.wombblessing.com/)
 
