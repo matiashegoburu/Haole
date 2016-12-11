@@ -4,7 +4,6 @@ published: false
 ---
 layout: page-fullwidth
 title: 'Bendición Mundial del Útero'
-subheadline: ''
 teaser: 'Bendición Mundial del Útero del mes de Diciembre'
 breadcrumb: true
 categories:
@@ -12,7 +11,7 @@ categories:
 tags:
   - bendiciones-del-utero
 image:
-  title: actividades/rosas-azules-significado-600x400.jpg
+  title: 'actividades/rosas-azules-significado-600x400.jpg'
 author: claudia
 header: 'no'
 ---
