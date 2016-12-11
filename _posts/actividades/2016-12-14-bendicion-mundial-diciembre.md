@@ -14,6 +14,12 @@ author: claudia
 header: 'no'
 subheadline: Bendición Mundial del Útero del mes de Diciembre
 ---
+> ‘Cinco veces por año, se conectan miles de mujeres de todo el mundo.
+Se conectan para transitar una senda de sanación femenina y volver
+ a su auténtica feminidad largamente olvidada a través de la
+ Bendición Mundial del Útero 
+– el despertar de la energía femenina.’ 
+De *'Female Energy Awakening'* de **Miranda Gray**
 
 Caminen con nosotras el sendero del despertar femenino el 14 de diciembre de 2016.
 
