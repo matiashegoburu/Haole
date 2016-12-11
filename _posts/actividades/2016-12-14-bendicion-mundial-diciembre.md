@@ -1,20 +1,19 @@
 ---
 published: true
----
----
 layout: page-fullwidth
-title: 'Bendición Mundial del Útero'
-teaser: 'Bendición Mundial del Útero del mes de Diciembre'
+title: Bendición Mundial del Útero
+teaser: Bendición Mundial del Útero del mes de Diciembre
 breadcrumb: true
 categories:
   - actividades
 tags:
   - bendiciones-del-utero
 image:
-  title: 'actividades/rosas-azules-significado-600x400.jpg'
+  title: actividades/rosas-azules-significado-600x400.jpg
 author: claudia
 header: 'no'
 ---
+
 Caminen con nosotras el sendero del despertar femenino el 14 de diciembre de 2016.
 
 **Paso 1:**
