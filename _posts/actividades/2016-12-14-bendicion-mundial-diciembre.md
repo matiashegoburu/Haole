@@ -12,6 +12,7 @@ image:
   title: actividades/rosas-azules-significado-600x400.jpg
 author: claudia
 header: 'no'
+subheadline: Bendición Mundial del Útero del mes de Diciembre
 ---
 
 Caminen con nosotras el sendero del despertar femenino el 14 de diciembre de 2016.
