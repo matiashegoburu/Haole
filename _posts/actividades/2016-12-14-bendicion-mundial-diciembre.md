@@ -1,6 +1,6 @@
 ---
 published: true
-layout: page-fullwidth
+layout: page
 title: Bendición Mundial del Útero
 teaser: Bendición Mundial del Útero del mes de Diciembre
 breadcrumb: true
