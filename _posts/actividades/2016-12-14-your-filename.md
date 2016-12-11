@@ -20,7 +20,7 @@ header: 'no'
 Caminen con nosotras el sendero del despertar femenino el 14 de diciembre de 2016.
 
 **Paso 1:**
-Inscribete en la pagina web: http://www.wombblessing.com/
+Inscribete en la pagina web: [http://www.wombblessing.com/](http://www.wombblessing.com/)
 
 Debes entrar en el enlace y registrarte a las 24.00 (hora del Reino Unido)
 Recuerda registrarte antes de las 18.00 hs., hora de Argentina, el 13 de diciembre. 
