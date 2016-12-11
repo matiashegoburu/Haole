@@ -64,8 +64,11 @@ Abrimos una puerta y están todas invitadas a pasar. Podemos recorrer este camin
 Crecer juntas, compartir y ayudarnos en el proceso evolutivo y sanador.
 
 **Claudia Zelaya** 
+
 Moon Mother by Miranda Gray 
+
 0351-152468058 
+
 [claudiazela@gmail.com](mailto:claudiazela@gmail.com)
 
 </div>
