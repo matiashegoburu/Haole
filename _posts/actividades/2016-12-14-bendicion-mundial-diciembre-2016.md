@@ -12,7 +12,7 @@ image:
   title: actividades/rosas-azules-significado-600x400.jpg
 author: claudia
 header: 'no'
-subheadline: El despertar femenino del 14 de diciembre de 2016
+subheadline: 14 de Diciembre de 2016
 ---
 > ‘Cinco veces por año, se conectan miles de mujeres de todo el mundo.
 Se conectan para transitar una senda de sanación femenina y volver
