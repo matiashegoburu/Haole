@@ -54,7 +54,6 @@ Moon Mother by Miranda Gray
 ## Sesiones Individuales
 
 > *“Esta Sintonización de Bendición del Útero es un sencillo regalo, un regalo para cualquier mujer de cualquier edad y experiencia que desee recibirlo, un regalo de energía que traerá sanación a nuestra feminidad, a nuestro útero y a sus ciclos, a nuestra creatividad y fertilidad, a nuestra sexualidad y espiritualidad.*
-> 
 > *La sintonización restaurará nuestra pureza y belleza naturales, nuestra abundancia y amor, creatividad y magia, nuestra sabiduría y fuerza. Nos liberará del pasado, de las expectativas limitadoras, de la culpabilidad y el dolor, soltando el gozo profundo del alma, la expresión del poder y la belleza de la mujer. Es una hermosa bendición y restauración de la luz para almas de las mujeres en un mundo duro y masculino.”* **Miranda Gray**
 
 
@@ -63,12 +62,9 @@ En mi aprendizaje, recibir una Bendición del Útero es una experiencia simple y
 Abrimos una puerta y están todas invitadas a pasar. Podemos recorrer este camino que llamamos vida con armonía, amor y sabiduría. 
 Crecer juntas, compartir y ayudarnos en el proceso evolutivo y sanador.
 
-**Claudia Zelaya**
-
-Moon Mother by Miranda Gray
-
-0351-152468058
-
+**Claudia Zelaya** 
+Moon Mother by Miranda Gray 
+0351-152468058 
 [claudiazela@gmail.com](mailto:claudiazela@gmail.com)
 
 </div>
