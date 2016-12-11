@@ -41,7 +41,7 @@ Inscribete en Escuela Haole para confirmar tu asistencia al celular: 0351-15-246
 **Paso 3:**
 Recuerda traer:
 
-* Puedes usar el color turquesa, o un chal de color turquesa o una velita de color turquesa en tu * Cuenco del Útero para reflejar la meditación del Rayo de Luna.
+* Puedes usar el color turquesa, o un chal de color turquesa o una velita de color turquesa en tu Cuenco del Útero para reflejar la meditación del Rayo de Luna.
 * 2 cuencos o vasijas (evita el plástico). Velita de noche. 
 * Chal o chalina. 
 * Almohadón para sentarte. 
