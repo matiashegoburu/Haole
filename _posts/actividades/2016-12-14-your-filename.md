@@ -5,10 +5,8 @@ published: false
 layout: page-fullwidth
 title: 'Bendición Mundial del Útero'
 subheadline: 
-
 teaser: >-
   Bendición Mundial del Útero del mes de Diciembre
-
 breadcrumb: true
 categories:
   - actividades
