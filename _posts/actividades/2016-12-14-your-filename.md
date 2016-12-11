@@ -11,7 +11,7 @@ breadcrumb: true
 categories:
   - actividades
 tags:
-  - 'bendiciones-del-utero'
+  - bendiciones-del-utero
 image:
   title: actividades/rosas-azules-significado-600x400.jpg
 author: claudia
